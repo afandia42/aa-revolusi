@@ -6,3 +6,4 @@ AA RESOLUSI
 * Mencari sumber di Internet
 - Mencari sumber penyimpanan yang baik
 - Mengelola sumber penyimpanan baru
+- Secara berkala monitoring kerapian
