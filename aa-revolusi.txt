@@ -4,6 +4,8 @@ AA RESOLUSI
 - Mencari sumber-sumber belajar yang efektif
 * Mencari sumber langsung ke Lapangan
 * Mencari sumber di Internet
+* Mencari sumber di Youtube
+* Mencari sumber di Jurnal
 - Mencari sumber penyimpanan yang baik
 - Mengelola sumber penyimpanan baru
 - Secara berkala monitoring kerapian
