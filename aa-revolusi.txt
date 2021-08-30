@@ -6,3 +6,4 @@ AA RESOLUSI
 * Mencari sumber di Jurnal
 - Mencari sumber penyimpanan yang baik
 - Mengelola sumber penyimpanan baru
+- Secara berkala monitoring kerapian
